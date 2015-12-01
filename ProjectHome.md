@@ -1,0 +1,1 @@
+O objetivo deste trabalho e desenvolver uma implementação VHDL do processador Pocket-MIPS Multiciclo utilizando a ferramenta GHDL. Simular a implementacao realizada tendo como objetivo detectar todos os possíeis bugs e falhas. Construir TestsBenchs para o modelo do processador Pocket-MIPS Multiciclo. E finalmente prototipar o processador implementado em VHDL, usando FPGA.
